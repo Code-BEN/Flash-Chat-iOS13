@@ -2,27 +2,25 @@
 
 # Flash-Chat
 
-## Our Goal
+## GOAL
 
-One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
+테이블뷰를 다루고 사용자지정 셀을 만들고 클라우드기반 백엔드 데이터베이스를 만듬
 
-## What you will create
-
-Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
+채팅앱과 FireBase FireStore를 서비스로한 데이터베이스를 만듬.
 
 ## What you will learn
 
-* How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
-* How to store data in the cloud using Firebase Firestore.
-* How to query and sort the Firebase database.
-* How to use Firebase for user authentication, registration and login.
-* How to work with UITableViews and how to set their data sources and delegates.
-* How to create custom views using .xib files to modify native design components.
-* How to embed View Controllers in a Navigation Controller and understand the navigation stack.
-* How to create a constants file and use static properties to store Strings and other constants.
-* Learn about Swift loops and create animations using loops.
-* Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
-* How to create direct Segues for navigation.
+Cocoapods 및 Swift Package Manager를 사용하여 앱에 타사 라이브러리를 통합하는 방법
+Firebase Firestore를 사용하여 클라우드에 데이터를 저장하는 방법
+Firebase 데이터베이스를 쿼리하고 정렬하는 방법
+사용자 인증, 등록 및 로그인에 Firebase를 사용하는 방법
+UITableView로 작업하는 방법과 데이터 소스 및 대리자를 설정하는 방법
+.xib 파일을 사용하여 사용자 정의보기를 작성하여 기본 설계 구성 요소를 수정하는 방법.
+탐색 컨트롤러에 View Controller를 포함하고 탐색 스택을 이해하는 방법
+상수 파일을 생성하고 정적 속성을 사용하여 문자열 및 기타 상수를 저장하는 방법
+스위프트 루프에 대해 배우고 루프를 사용하여 애니메이션을 만듭니다.
+앱 수명주기 및 viewWillAppear 또는 viewWillDisappear 사용 방법에 대해 알아 봅니다.
+탐색을위한 직접 Segue를 작성하는 방법
 
 
 # Constants
